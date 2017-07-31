@@ -1,0 +1,62 @@
+#image1{    
+    position: absolute;
+    right: 1080px;
+    top: 30%;
+}
+
+#image2{    
+    position: absolute;
+    right: 1300px;
+    top: 2%;
+}
+
+#image3{    
+    position: absolute;
+    right: 1600px;
+    top: 40%;
+}
+
+#image4{    
+    position: absolute;
+    right: 1300px;
+    top: 70%;
+}
+
+#image5{    
+    position: absolute;
+    right: 500px;
+    top: 30%;
+}
+
+#image6{    
+    position: absolute;
+    right: 220px;
+    top: 2%;
+}
+
+#image7{    
+    position: absolute;
+    right: 10px;
+    top: 40%;
+}
+
+#image8{    
+   position: absolute;
+   right: 220px;
+   top:70%;
+}
+
+#image9{    
+    position: absolute;
+    right: 780px;
+    top: 30%;
+}
+
+#div1{
+    /* color: peachpuff;
+    border: 50px solid green; */
+}
+
+#div2{
+    /* color: lightblue; */
+}
